@@ -17,3 +17,9 @@ La herramienta contiene las siguientes funcionalidades:<br>
 - Genera reporte de alertas en formato syslog.
 
 Uso para SysLog: (Se puede dejar como Daemon para obtener un reporte diario o semanal .etc<br> para luego implementarlo en alguna herramineta de monitoreo.)
+
+
+<b>USO:</b>
+
+- Agregar los nombres de dominios o ip en el archivo <b>lista_web.txt</b> sin <b>(https://)</b> ejemplo: sitioprueba.com
+- Ejecutar el script: python RunSSL.py
