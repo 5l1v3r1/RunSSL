@@ -13,7 +13,7 @@ La herramienta contiene las siguientes funcionalidades:<br>
 - Certificado expirado.
 - Comprueba fecha de expiracion.
 - Muestra los dias restantes para caducidad del certificado.
-- Guarda el html del sitio para el proximo scan compararlo si hubieron cambio.
+- Guarda el html del sitio para el proximo scan y comparar si hubieron cambio.
 - Genera reporte de alertas en formato syslog.
 
 Uso para SysLog: (Se puede dejar como Daemon para obtener un reporte diario o semanal .etc<br> para luego implementarlo en alguna herramineta de monitoreo.)
